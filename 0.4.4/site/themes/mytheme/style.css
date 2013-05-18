@@ -1,0 +1,16 @@
+/*
+// Author: Fredrik Åhman
+// Course: PHPMVC @ BTH
+// File: style.css
+// Desc: Core style for my Lydia based framework called Konrad.
+*/
+@import url(../../../themes/grid/style.css);
+
+
+label{font-size:large;}
+textarea{
+	font:inherit;
+	width:45em;
+	height:20em;
+}
+
